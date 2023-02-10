@@ -1,0 +1,7 @@
+Some resources that may be of interest.
+
+C-evo, a freeware civilization-like game meant to be a test bed for artificial intelligence.
+http://www.c-evo.org/
+
+Game design documents:
+https://www.nuclino.com/articles/game-design-document-template
