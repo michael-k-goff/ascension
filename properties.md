@@ -30,7 +30,7 @@ There will be at least one property for crime. This may be broken down into mult
 
 ## Pollution
 
-Properities such as particulates, greenhouse gases, ozone depletion, nitrous oxide, sulfur dioxide, water pollution, noise, light pollution, urban heat islands, and other kinds of pollution will be their own properities.
+Characteristics such as particulates, greenhouse gases, ozone depletion, nitrous oxide, sulfur dioxide, water pollution, noise, light pollution, urban heat islands, and other kinds of pollution will be their own properities.
 
 ## Economics
 
